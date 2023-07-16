@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <BaseOutputPath>C:\RAGEMP\server-files\client_packages\cs_packages</BaseOutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="rage-sharpN">
+      <HintPath>C:\RAGEMP\dotnet\rage-sharpN.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

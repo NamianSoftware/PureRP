@@ -1,0 +1,5 @@
+<meta>
+    <info name="Pure RP" description="Role play server"/>
+    <script src="Debug\netcoreapp3.1\Server.dll"/>
+    <!-- <script src="Release\netcoreapp3.1\Server.dll"/>  -->
+</meta>
